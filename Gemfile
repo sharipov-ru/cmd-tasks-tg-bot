@@ -6,5 +6,5 @@ gem 'redis', '~> 5.4.1'
 gem 'telegram-bot-ruby', '~> 0.23.0'
 
 group :test do
-  gem 'rspec', '~> 3.13.1'
+  gem 'rspec', '~> 3.13.2'
 end
