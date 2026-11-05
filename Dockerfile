@@ -1,4 +1,4 @@
-FROM ruby:4.0.7-alpine
+FROM ruby:4.0.8-alpine
 
 RUN mkdir /cmd-tasks-tg-bot
 
